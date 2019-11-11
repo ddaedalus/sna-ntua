@@ -1,1 +1,2 @@
-# Social_network_analysis_ntua
+## Social Network Analysis
+Programming exercises, NTUA, 2019-2020
