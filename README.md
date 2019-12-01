@@ -4,8 +4,8 @@ Programming exercises, NTUA, 2019-2020
 :rocket: **SNA Lab1**  
 -Random Exploration Graph (REG),  
 -Erdos-Renyi (RGER),  
--Gilbert,  
+-Gilbert (RG),  
 -Random Geometric Graphs (RGG),  
 -Barabasi-Albert (SF),  
 -Watts-Strogatz (SW)  
-Network Analysis methods and metrics, including *node degree*, *node strength*, *centrality*, *shortest-paths* and *clustering coefficient*, were applied on the above topologies. 
+Network Analysis methods and metrics, including *node degree*, *node strength*, *centrality*, *shortest-paths*, *clustering coefficient*, *graph connectivity* and *threshold behavior*, were applied on the above topologies. 
