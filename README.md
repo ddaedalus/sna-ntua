@@ -4,7 +4,7 @@ Programming exercises, NTUA, 2019-2020
 :rocket: **SNA Lab1**  
 -Random Exploration Graph (REG),  
 -Erdos-Renyi (RGER),  
--Gilbert,  
+-Gilbert (RG),  
 -Random Geometric Graphs (RGG),  
 -Barabasi-Albert (SF),  
 -Watts-Strogatz (SW)  
